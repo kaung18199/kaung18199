@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Thailand Anywere**
 
-- 🌱 I’m currently learning **MERN , TypeScript**
+- 🌱 I’m currently learning **NUXTjs , NEXTjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaung18199](https://github.com/kaung18199)
 
