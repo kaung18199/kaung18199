@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Neptune MM**
+- 🔭 I’m currently working on **THANYWHERE**
 
-- 🌱 I’m currently learning **NUXTjs , NEXTjs**
+- 🌱 I’m currently learning **FLUTTER**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaung18199](https://github.com/kaung18199)
 
